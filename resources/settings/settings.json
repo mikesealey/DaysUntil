@@ -1,0 +1,16 @@
+{
+  "settings": [
+    {
+      "key": "username",
+      "type": "text",
+      "label": "Username",
+      "defaultValue": "guest"
+    },
+    {
+      "key": "enableFeature",
+      "type": "boolean",
+      "label": "Enable Feature",
+      "defaultValue": true
+    }
+  ]
+}
