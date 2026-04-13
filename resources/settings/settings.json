@@ -1,16 +1,40 @@
 {
   "settings": [
     {
-      "key": "username",
+      "key": "race1",
       "type": "text",
-      "label": "Username",
-      "defaultValue": "guest"
+      "label": "Race 1",
+      "defaultValue": "My Race"
     },
     {
-      "key": "enableFeature",
-      "type": "boolean",
-      "label": "Enable Feature",
-      "defaultValue": true
+      "key": "date1",
+      "type": "dateTime",
+      "label": "Race 1 Date",
+      "defaultValue": "2036-04-13T09:00:00"
+    },
+    {
+      "key": "race2",
+      "type": "text",
+      "label": "Race 2",
+      "defaultValue": "My Race"
+    },
+    {
+      "key": "date2",
+      "type": "dateTime",
+      "label": "Race 2 Date",
+      "defaultValue": "2036-05-13T09:00:00"
+    },
+    {
+      "key": "race3",
+      "type": "text",
+      "label": "Race 3",
+      "defaultValue": "My Race"
+    },
+    {
+      "key": "date3",
+      "type": "dateTime",
+      "label": "Race 3 date",
+      "defaultValue": "2036-06-13T09:00:00"
     }
   ]
 }
